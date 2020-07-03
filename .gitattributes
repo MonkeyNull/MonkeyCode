@@ -1,1 +1,2 @@
 CEBMobileBank.ipa filter=lfs diff=lfs merge=lfs -text
+guangda.plist filter=lfs diff=lfs merge=lfs -text
