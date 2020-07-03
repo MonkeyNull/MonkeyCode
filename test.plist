@@ -9,8 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://139.198.2.80:8082/artifactory/mbank-android-test-local/N321/CEBMobileBank.ipa
-                    </string>
+                    <string>https://oss.pgyer.com/ff1d514486b5aefd4e9b0fefbf4c2ebc.ipa?auth_key=1593778405-248751e803326173d10eeec840a815c6-0-b309e72eb1aa2e7c105c005d79f5316e&response-content-disposition=attachment%3B+filename%3DCeb.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
