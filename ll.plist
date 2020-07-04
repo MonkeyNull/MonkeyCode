@@ -29,9 +29,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.cebbank.mpoinvld</string>
+                <string>com.juphoon.cloud.JCSDKOC</string>
                 <key>bundle-version</key>
-                <string>7.0.16</string>
+                <string>1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
