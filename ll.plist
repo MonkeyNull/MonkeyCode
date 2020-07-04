@@ -16,8 +16,12 @@
                 <dict>
                      <key>kind</key>
                      <string>display-image</string>
-                     <key>need-shine</key>
-                     <integer>0</integer>
+                     <key>url</key>
+                     <string>https://appicon.pgyer.com/image/view/app_icons/6a46303bd50ccfc94d2d8bdb219c1b45/120</string>
+                </dict>
+                <dict>
+                     <key>kind</key>
+                     <string>full-size-image</string>
                      <key>url</key>
                      <string>https://appicon.pgyer.com/image/view/app_icons/6a46303bd50ccfc94d2d8bdb219c1b45/120</string>
                 </dict>
